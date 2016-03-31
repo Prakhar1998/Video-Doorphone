@@ -23,8 +23,8 @@
 #include <SPI.h>
 #include <WiFi101.h>
 
-char ssid[] = "Speedport W 921V";      //  your network SSID (name) -- changed --
-char pass[] = "5005688842090448";   // your network password        -- changed --
+char ssid[] = "Speedport xyz";      //  your network SSID (name) -- to be changed by you --
+char pass[] = "password";        // your network password        -- to be changed by you --
 int keyIndex = 0;                 // your network key Index number (needed only for WEP)
 
 int status = WL_IDLE_STATUS;
